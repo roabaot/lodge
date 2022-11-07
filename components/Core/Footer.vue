@@ -5,14 +5,14 @@
         <v-row justify="center">
           <v-col md="3" cols="12" class="pt-0">
             <div class="info-logo white d-flex justify-center align-end" :class="!$vuetify.breakpoint.mdAndUp ? 'mx-auto' : ''">
-              <img src="img/logo.png" alt="" width="50">
+              <img src="https://i.postimg.cc/8zg7bHJx/logo.png" alt="" width="50">
               <span class="text-h4 ml-2">LODGE</span>
             </div>
           </v-col>
           <v-col md="3" cols="12">
             <div class="info-contact" :class="!$vuetify.breakpoint.mdAndUp ? 'text-center py-5' : ''">
               <v-btn text class="white--text">
-                <img src="img/location.png" alt="">
+                <img src="https://i.postimg.cc/MTdChMXR/location.png" alt="">
                 <span class="mx-2 subtitle-1">Address</span>
               </v-btn>
             </div>
@@ -20,7 +20,7 @@
           <v-col md="3" cols="12">
             <div class="info-contact" :class="!$vuetify.breakpoint.mdAndUp ? 'text-center py-5' : ''">
               <v-btn text class="white--text">
-                <img src="img/phone.png" alt="">
+                <img src="https://i.postimg.cc/VvJVpKxQ/phone.png" alt="">
                 <span class="mx-2 subtitle-1">+235 123344556</span>
               </v-btn>
             </div>
@@ -28,7 +28,7 @@
           <v-col md="3" cols="12">
             <div class="info-contact" :class="!$vuetify.breakpoint.mdAndUp ? 'text-center py-5' : ''">
               <v-btn text class="white--text">
-                <img src="img/mail.png" alt="">
+                <img src="https://i.postimg.cc/Y9mtHVV9/mail.png" alt="">
                 <span class="mx-2 subtitle-1">demo@gmail.com</span>
               </v-btn>
             </div>
@@ -67,16 +67,16 @@
         <div class="info-website mx-auto">
           <div class="text-center py-3">
             <v-btn icon class="mx-1">
-              <img src="img/fb.png" alt="facebook">
+              <img src="https://i.postimg.cc/wMrQkgFb/fb.png" alt="facebook">
             </v-btn>
             <v-btn icon class="mx-1">
-              <img src="img/twitter.png" alt="facebook">
+              <img src="https://i.postimg.cc/QxHQcDxd/twitter.png" alt="facebook">
             </v-btn>
             <v-btn icon class="mx-1">
-              <img src="img/linkedin.png" alt="facebook">
+              <img src="https://i.postimg.cc/NFQjPHCK/linkedin.png" alt="facebook">
             </v-btn>
             <v-btn icon class="mx-1">
-              <img src="img/insta.png" alt="facebook">
+              <img src="https://i.postimg.cc/nVqmRKrh/insta.png" alt="facebook">
             </v-btn>
           </div>
           <div class="mx-6">
