@@ -49,17 +49,17 @@ export default {
       items: [
         {
           title: 'Diamond Ring',
-          img: 'img/p-1.png',
+          img: 'https://i.postimg.cc/15xVq51d/p-1.png',
           price: '1399'
         },
         {
           title: 'Wedding Ring',
-          img: 'img/i-1.png',
+          img: 'https://i.postimg.cc/X7SYyz6y/i-1.png',
           price: '699'
         },
         {
           title: 'Golden Earings',
-          img: 'img/i-3.png',
+          img: 'https://i.postimg.cc/zXmG9wN5/i-3.png',
           price: '299'
         }
       ]

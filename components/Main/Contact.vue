@@ -2,7 +2,7 @@
   <div class="py-12">
     <section class="contact d-flex align-end">
       <div class="contact-box">
-        <img src="img/design-2.png" alt="" width="100%">
+        <img src="https://i.postimg.cc/mDy0rB0K/design-2.png" alt="" width="100%">
       </div>
 
       <v-container>

@@ -37,15 +37,15 @@ export default {
       items: [
         {
           title: 'BRACELET',
-          img: 'img/i-1.png'
+          img: 'https://i.postimg.cc/X7SYyz6y/i-1.png'
         },
         {
           title: 'RING',
-          img: 'img/i-2.png'
+          img: 'https://i.postimg.cc/m2XZs9Hv/i-2.png'
         },
         {
           title: 'EARINGS',
-          img: 'img/i-3.png'
+          img: 'https://i.postimg.cc/zXmG9wN5/i-3.png'
         }
       ]
     }

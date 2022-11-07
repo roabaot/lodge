@@ -2,7 +2,7 @@
   <div class="py-12">
     <section class="special d-flex align-end">
       <div class="special-box">
-        <img src="img/design-1.png" alt="" width="100%">
+        <img src="https://i.postimg.cc/8ctQZN4L/design-1.png" alt="" width="100%">
       </div>
 
       <v-container>
@@ -23,7 +23,7 @@
             </v-col>
             <v-col md="7" cols="12">
               <div class="special-img">
-                <img src="img/ring-img.jpg" alt="" width="100%">
+                <img src="https://i.postimg.cc/cHq15MRc/ring-img.jpg" alt="" width="100%">
               </div>
             </v-col>
           </v-row>

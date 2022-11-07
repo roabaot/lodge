@@ -24,7 +24,7 @@
               fab
               icon
             >
-              <img :src="hover ? 'img/prev.png' : 'img/prev-black.png'" alt="">
+              <img :src="hover ? 'https://i.postimg.cc/VvXYk0BV/prev.png' : 'https://i.postimg.cc/VLcq2344/prev-black.png'" alt="">
             </v-btn>
           </v-hover>
         </template>
@@ -36,7 +36,7 @@
               fab
               icon
             >
-              <img :src="hover ? 'img/next.png' : 'img/next-black.png'" alt="">
+              <img :src="hover ? 'https://i.postimg.cc/4NTVfRzb/next.png' : 'https://i.postimg.cc/MKjP4wz7/next-black.png'" alt="">
             </v-btn>
           </v-hover>
         </template>

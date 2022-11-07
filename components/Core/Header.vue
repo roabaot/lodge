@@ -14,7 +14,7 @@
             class="d-flex align-end black--text font-weight-black headline mt-2"
             @click="$nuxt.$router.push('/')"
           >
-            <img src="img/logo.png" alt="" width="30" class="mx-1">
+            <img src="https://i.postimg.cc/8zg7bHJx/logo.png" alt="" width="30" class="mx-1">
             <span>LODGE</span>
           </div>
         </v-toolbar-title>

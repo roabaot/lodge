@@ -10,7 +10,7 @@
       <CoreHeader />
       <section class="slider-section d-flex align-end">
         <div class="slide-box">
-          <img src="img/design-1.png" alt="" width="100%">
+          <img src="https://i.postimg.cc/8ctQZN4L/design-1.png" alt="" width="100%">
         </div>
 
         <v-container>
@@ -75,67 +75,67 @@ export default {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         },
         {
           status: 'New Collection',
           title: 'Jewellery',
           desc: 'Lorem ipsum dolor sit amet consec tetur adipiscing elit elit at felislacinia aptent taciti sociosqu ad litora torquent per conubia nostra',
-          img: 'img/slider-img.png'
+          img: 'https://i.postimg.cc/yd4HLKMH/slider-img.png'
         }
       ]
     }
