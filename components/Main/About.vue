@@ -18,7 +18,7 @@
             <p class="subtitle-1 mb-16 pt-6">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrudLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
             </p>
-            <v-btn tile color="black" class="subtitle-1 px-11 py-6 text-capitalize white--text">
+            <v-btn tile color="black" class="subtitle-1 px-11 text-capitalize white--text" :class="$vuetify.breakpoint.mdAndUp ? 'py-6' : ''">
               Read More
             </v-btn>
           </v-col>

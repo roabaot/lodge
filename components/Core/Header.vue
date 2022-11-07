@@ -43,14 +43,14 @@
 
           <span class="cart">
             <v-btn icon>
-              <img src="img/cart.png" alt="" width="25" height="23">
+              <img src="https://i.postimg.cc/ZRrLx83X/cart.png" alt="" width="25" height="23">
               <span class="cart-number">
                 0
               </span>
             </v-btn>
           </span>
           <v-btn icon>
-            <img src="img/search-icon.png" alt="" width="23">
+            <img src="https://i.postimg.cc/VkNyd6Mj/search-icon.png" alt="" width="23">
           </v-btn>
         </div>
 
@@ -59,14 +59,14 @@
         <div v-else>
           <span class="cart">
             <v-btn icon>
-              <img src="img/cart.png" alt="" width="25" height="23">
+              <img src="https://i.postimg.cc/ZRrLx83X/cart.png" alt="" width="25" height="23">
               <span class="cart-number">
                 0
               </span>
             </v-btn>
           </span>
           <v-btn icon>
-            <img src="img/search-icon.png" alt="" width="23">
+            <img src="https://i.postimg.cc/VkNyd6Mj/search-icon.png" alt="" width="23">
           </v-btn>
           <v-menu
             transition="slide-y-transition"

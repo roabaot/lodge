@@ -78,7 +78,7 @@
               </ValidationObserver>
 
               <div class="mt-10 mb-8">
-                <v-btn rounded large class="contact-btn px-12 py-6 white--text subtitle-1" @click="onContact">
+                <v-btn rounded large class="contact-btn px-12 white--text subtitle-1" :class="$vuetify.breakpoint.mdAndUp ? 'py-6' : ''" @click="onContact">
                   Send
                 </v-btn>
               </div>

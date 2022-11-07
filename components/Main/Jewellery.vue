@@ -36,7 +36,7 @@
       </div>
 
       <div class="text-center">
-        <v-btn tile class="black white--text subtitle-1 text-capitalize px-10 py-5">See More</v-btn>
+        <v-btn tile class="black white--text subtitle-1 text-capitalize px-10" :class="$vuetify.breakpoint.mdAndUp ? 'py-5' : ''">See More</v-btn>
       </div>
     </v-container>
   </div>

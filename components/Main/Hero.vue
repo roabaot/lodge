@@ -43,7 +43,7 @@
                       {{ slide.desc }}
                     </p>
 
-                    <v-btn tile color="black" class="subtitle-1 px-11 py-6 text-capitalize white--text">
+                    <v-btn tile color="black" class="subtitle-1 px-11 text-capitalize white--text" :class="$vuetify.breakpoint.mdAndUp ? 'py-6' : ''">
                       Shop Now
                     </v-btn>
 

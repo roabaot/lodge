@@ -54,7 +54,7 @@
                 <v-col md="5" cols="12">
                   <div class="client d-flex align-center">
                     <div class="client-img mr-6">
-                      <img src="img/client.png" alt="" width="100%">
+                      <img src="https://i.postimg.cc/xTw91jbD/client.png" alt="" width="100%">
                     </div>
                     <div class="client-info">
                       <h4 class="text-h6 font-weight-black black--text">
