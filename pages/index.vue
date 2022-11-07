@@ -6,7 +6,7 @@
     <MainJewellery id="jewellery" />
     <MainSpecial />
     <MainTest />
-    <MainContact />
+    <MainContact id="contact" />
   </div>
 </template>
 

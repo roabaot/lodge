@@ -25,16 +25,16 @@
 
         <!-- navigation -->
         <div v-if="!$vuetify.breakpoint.smAndDown">
-          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light" href="#about-me">
+          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light" @click="scroll('home')">
             Home
           </v-btn>
-          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light" href="#service">
+          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light" @click="scroll('about')">
             About
           </v-btn>
-          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light">
+          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light" @click="scroll('jewellery')">
             Jewellery
           </v-btn>
-          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light">
+          <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light" @click="scroll('contact')">
             Contact Us
           </v-btn>
           <v-btn text class="mx-1 subtitle-1 text-capitalize font-weight-light">
