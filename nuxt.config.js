@@ -9,9 +9,9 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: '' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/icon.png' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/icon.png' }]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -22,7 +22,7 @@ export default {
     { src: '~plugins/core-components.client.js', ssr: false },
     '~plugins/icons.js',
     // '~plugins/axios.js',
-    '~plugins/vee-validate.js',
+    '~plugins/vee-validate.js'
     // '~plugins/star-rating.client.js',
     // '~plugins/persistedState.js'
   ],
@@ -35,7 +35,7 @@ export default {
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/vuetify
-    '@nuxtjs/vuetify',
+    '@nuxtjs/vuetify'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -47,14 +47,14 @@ export default {
     '@nuxtjs/pwa',
     'cookie-universal-nuxt',
     ['@nuxtjs/dotenv', { systemvars: true }],
-    'nuxt-socket-io',
+    'nuxt-socket-io'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
     baseURL: process.env.BASE_URL || 'http://localhost:4000',
     timeout: 30000,
-    headers: { 'Content-Type': 'application/json' },
+    headers: { 'Content-Type': 'application/json' }
   },
 
   // proxy: {
@@ -64,8 +64,8 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'en',
-    },
+      lang: 'en'
+    }
   },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
@@ -84,7 +84,7 @@ export default {
           info: colors.teal.lighten1,
           warning: colors.amber.base,
           error: colors.deepOrange.accent4,
-          success: colors.green.accent3,
+          success: colors.green.accent3
         },
         light: {
           subbackground: '#0a0d14',
@@ -95,10 +95,10 @@ export default {
           error: '#FF5252',
           info: '#2196F3',
           success: '#4CAF50',
-          warning: '#FFC107',
-        },
-      },
-    },
+          warning: '#FFC107'
+        }
+      }
+    }
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
@@ -124,22 +124,22 @@ export default {
               // When 'messages' is received,
               // commit mutation 'setMessages'
               messages: 'setMessages',
-            },
+            }
           ],
           actions: [
             // When 'messages' is received,
             // dispatch action 'newMessage'
-            { messages: 'newMessage' },
+            { messages: 'newMessage' }
           ],
 
           emitBacks: [
             // When 'messages' state changes,
             // emit back the event 'messages'
-            'messages',
-          ],
-        },
-      },
-    ],
+            'messages'
+          ]
+        }
+      }
+    ]
   },
 
   auth: {
@@ -154,21 +154,21 @@ export default {
 
         token: {
           property: 'token',
-          global: true,
+          global: true
           // required: true,
           // type: 'Bearer'
         },
         user: {
-          property: 'user',
+          property: 'user'
           // autoFetch: true
         },
         endpoints: {
           login: { url: '/login', method: 'post' },
           // logout: { url: '/logout', method: 'post' },
-          user: { url: '/getUser', method: 'get' },
-        },
-      },
-    },
+          user: { url: '/getUser', method: 'get' }
+        }
+      }
+    }
   },
 
   // serverMiddleware: ['~/server-middleware/cart']
